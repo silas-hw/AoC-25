@@ -1,0 +1,5 @@
+*.swp
+.idea
+.vscode
+*.e # will use .e for executables. Just me working on stuff, so doesn't matter that this is abnormal :)
+
